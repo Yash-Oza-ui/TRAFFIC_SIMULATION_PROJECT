@@ -1,0 +1,237 @@
+Traffic simulation started
+Time 0: Added 20 vehicles to lane 0, total = 20
+Lane 0 GREEN for 20 seconds
+Lane 0: Vehicle passed. Remaining: 19
+Lane 0: Vehicle passed. Remaining: 18
+Lane 0: Vehicle passed. Remaining: 17
+Lane 0: Vehicle passed. Remaining: 16
+Lane 0: Vehicle passed. Remaining: 15
+Time 5: Added 10 vehicles to lane 1, total = 10
+Time 5: Added 100 vehicles to lane 0, total = 115
+Lane 0: Vehicle passed. Remaining: 114
+Lane 0: Vehicle passed. Remaining: 113
+Lane 0: Vehicle passed. Remaining: 112
+Lane 0: Vehicle passed. Remaining: 111
+Lane 0: Vehicle passed. Remaining: 110
+Time 10: Added 15 vehicles to lane 2, total = 15
+Lane 0: Vehicle passed. Remaining: 109
+Lane 0: Vehicle passed. Remaining: 108
+Lane 0: Vehicle passed. Remaining: 107
+Lane 0: Vehicle passed. Remaining: 106
+Lane 0: Vehicle passed. Remaining: 105
+Time 15: Added 5 vehicles to lane 3, total = 5
+Lane 0: Vehicle passed. Remaining: 104
+Time 16: Emergency triggered!
+Time 16: Added 14 vehicles to lane 3, total = 19
+Emergency mid-green! Pausing with 4 seconds left.
+Emergency cleared (simulated).
+Lane 0 GREEN for 4 seconds
+Lane 0: Vehicle passed. Remaining: 103
+Lane 0: Vehicle passed. Remaining: 102
+Lane 0: Vehicle passed. Remaining: 101
+Lane 0: Vehicle passed. Remaining: 100
+Lane 0 RED. Next lane: 1
+Lane 1 GREEN for 10 seconds
+Lane 1: Vehicle passed. Remaining: 9
+Lane 1: Vehicle passed. Remaining: 8
+Lane 1: Vehicle passed. Remaining: 7
+Lane 1: Vehicle passed. Remaining: 6
+Lane 1: Vehicle passed. Remaining: 5
+Lane 1: Vehicle passed. Remaining: 4
+Lane 1: Vehicle passed. Remaining: 3
+Lane 1: Vehicle passed. Remaining: 2
+Lane 1: Vehicle passed. Remaining: 1
+Lane 1: Vehicle passed. Remaining: 0
+Lane 1 RED. Next lane: 2
+Lane 2 GREEN for 15 seconds
+Lane 2: Vehicle passed. Remaining: 14
+Lane 2: Vehicle passed. Remaining: 13
+Lane 2: Vehicle passed. Remaining: 12
+Lane 2: Vehicle passed. Remaining: 11
+Lane 2: Vehicle passed. Remaining: 10
+Time 40: Added 10 vehicles to lane 0, total = 110
+Lane 2: Vehicle passed. Remaining: 9
+Lane 2: Vehicle passed. Remaining: 8
+Lane 2: Vehicle passed. Remaining: 7
+Lane 2: Vehicle passed. Remaining: 6
+Lane 2: Vehicle passed. Remaining: 5
+Lane 2: Vehicle passed. Remaining: 4
+Lane 2: Vehicle passed. Remaining: 3
+Lane 2: Vehicle passed. Remaining: 2
+Lane 2: Vehicle passed. Remaining: 1
+Lane 2: Vehicle passed. Remaining: 0
+Lane 2 RED. Next lane: 3
+Lane 3 GREEN for 19 seconds
+Lane 3: Vehicle passed. Remaining: 18
+Lane 3: Vehicle passed. Remaining: 17
+Lane 3: Vehicle passed. Remaining: 16
+Lane 3: Vehicle passed. Remaining: 15
+Lane 3: Vehicle passed. Remaining: 14
+Lane 3: Vehicle passed. Remaining: 13
+Lane 3: Vehicle passed. Remaining: 12
+Lane 3: Vehicle passed. Remaining: 11
+Lane 3: Vehicle passed. Remaining: 10
+Lane 3: Vehicle passed. Remaining: 9
+Lane 3: Vehicle passed. Remaining: 8
+Lane 3: Vehicle passed. Remaining: 7
+Lane 3: Vehicle passed. Remaining: 6
+Lane 3: Vehicle passed. Remaining: 5
+Lane 3: Vehicle passed. Remaining: 4
+Lane 3: Vehicle passed. Remaining: 3
+Lane 3: Vehicle passed. Remaining: 2
+Lane 3: Vehicle passed. Remaining: 1
+Lane 3: Vehicle passed. Remaining: 0
+Lane 3 RED. Next lane: 0
+Lane 0 GREEN for 90 seconds
+Lane 0: Vehicle passed. Remaining: 109
+Lane 0: Vehicle passed. Remaining: 108
+Lane 0: Vehicle passed. Remaining: 107
+Lane 0: Vehicle passed. Remaining: 106
+Lane 0: Vehicle passed. Remaining: 105
+Lane 0: Vehicle passed. Remaining: 104
+Lane 0: Vehicle passed. Remaining: 103
+Lane 0: Vehicle passed. Remaining: 102
+Lane 0: Vehicle passed. Remaining: 101
+Lane 0: Vehicle passed. Remaining: 100
+Lane 0: Vehicle passed. Remaining: 99
+Lane 0: Vehicle passed. Remaining: 98
+Lane 0: Vehicle passed. Remaining: 97
+Lane 0: Vehicle passed. Remaining: 96
+Lane 0: Vehicle passed. Remaining: 95
+Lane 0: Vehicle passed. Remaining: 94
+Lane 0: Vehicle passed. Remaining: 93
+Lane 0: Vehicle passed. Remaining: 92
+Lane 0: Vehicle passed. Remaining: 91
+Lane 0: Vehicle passed. Remaining: 90
+Lane 0: Vehicle passed. Remaining: 89
+Lane 0: Vehicle passed. Remaining: 88
+Lane 0: Vehicle passed. Remaining: 87
+Lane 0: Vehicle passed. Remaining: 86
+Lane 0: Vehicle passed. Remaining: 85
+Lane 0: Vehicle passed. Remaining: 84
+Lane 0: Vehicle passed. Remaining: 83
+Lane 0: Vehicle passed. Remaining: 82
+Lane 0: Vehicle passed. Remaining: 81
+Lane 0: Vehicle passed. Remaining: 80
+Lane 0: Vehicle passed. Remaining: 79
+Lane 0: Vehicle passed. Remaining: 78
+Lane 0: Vehicle passed. Remaining: 77
+Lane 0: Vehicle passed. Remaining: 76
+Lane 0: Vehicle passed. Remaining: 75
+Lane 0: Vehicle passed. Remaining: 74
+Lane 0: Vehicle passed. Remaining: 73
+Lane 0: Vehicle passed. Remaining: 72
+Lane 0: Vehicle passed. Remaining: 71
+Lane 0: Vehicle passed. Remaining: 70
+Lane 0: Vehicle passed. Remaining: 69
+Lane 0: Vehicle passed. Remaining: 68
+Lane 0: Vehicle passed. Remaining: 67
+Lane 0: Vehicle passed. Remaining: 66
+Lane 0: Vehicle passed. Remaining: 65
+Lane 0: Vehicle passed. Remaining: 64
+Lane 0: Vehicle passed. Remaining: 63
+Lane 0: Vehicle passed. Remaining: 62
+Lane 0: Vehicle passed. Remaining: 61
+Lane 0: Vehicle passed. Remaining: 60
+Lane 0: Vehicle passed. Remaining: 59
+Lane 0: Vehicle passed. Remaining: 58
+Lane 0: Vehicle passed. Remaining: 57
+Lane 0: Vehicle passed. Remaining: 56
+Lane 0: Vehicle passed. Remaining: 55
+Lane 0: Vehicle passed. Remaining: 54
+Lane 0: Vehicle passed. Remaining: 53
+Lane 0: Vehicle passed. Remaining: 52
+Lane 0: Vehicle passed. Remaining: 51
+Lane 0: Vehicle passed. Remaining: 50
+Lane 0: Vehicle passed. Remaining: 49
+Lane 0: Vehicle passed. Remaining: 48
+Lane 0: Vehicle passed. Remaining: 47
+Lane 0: Vehicle passed. Remaining: 46
+Lane 0: Vehicle passed. Remaining: 45
+Lane 0: Vehicle passed. Remaining: 44
+Lane 0: Vehicle passed. Remaining: 43
+Lane 0: Vehicle passed. Remaining: 42
+Lane 0: Vehicle passed. Remaining: 41
+Lane 0: Vehicle passed. Remaining: 40
+Lane 0: Vehicle passed. Remaining: 39
+Lane 0: Vehicle passed. Remaining: 38
+Lane 0: Vehicle passed. Remaining: 37
+Lane 0: Vehicle passed. Remaining: 36
+Lane 0: Vehicle passed. Remaining: 35
+Lane 0: Vehicle passed. Remaining: 34
+Lane 0: Vehicle passed. Remaining: 33
+Lane 0: Vehicle passed. Remaining: 32
+Lane 0: Vehicle passed. Remaining: 31
+Lane 0: Vehicle passed. Remaining: 30
+Lane 0: Vehicle passed. Remaining: 29
+Lane 0: Vehicle passed. Remaining: 28
+Lane 0: Vehicle passed. Remaining: 27
+Lane 0: Vehicle passed. Remaining: 26
+Lane 0: Vehicle passed. Remaining: 25
+Lane 0: Vehicle passed. Remaining: 24
+Lane 0: Vehicle passed. Remaining: 23
+Lane 0: Vehicle passed. Remaining: 22
+Lane 0: Vehicle passed. Remaining: 21
+Lane 0: Vehicle passed. Remaining: 20
+Lane 0 RED. Next lane: 1
+Lane 1 GREEN for 10 seconds
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1: No vehicles at this tick.
+Lane 1 RED. Next lane: 2
+Lane 2 GREEN for 10 seconds
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2: No vehicles at this tick.
+Lane 2 RED. Next lane: 3
+Lane 3 GREEN for 10 seconds
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3: No vehicles at this tick.
+Lane 3 RED. Next lane: 0
+Lane 0 GREEN for 20 seconds
+Lane 0: Vehicle passed. Remaining: 19
+Lane 0: Vehicle passed. Remaining: 18
+Lane 0: Vehicle passed. Remaining: 17
+Lane 0: Vehicle passed. Remaining: 16
+Lane 0: Vehicle passed. Remaining: 15
+Lane 0: Vehicle passed. Remaining: 14
+Lane 0: Vehicle passed. Remaining: 13
+Lane 0: Vehicle passed. Remaining: 12
+Lane 0: Vehicle passed. Remaining: 11
+Lane 0: Vehicle passed. Remaining: 10
+Lane 0: Vehicle passed. Remaining: 9
+Lane 0: Vehicle passed. Remaining: 8
+Lane 0: Vehicle passed. Remaining: 7
+Lane 0: Vehicle passed. Remaining: 6
+Lane 0: Vehicle passed. Remaining: 5
+Lane 0: Vehicle passed. Remaining: 4
+Lane 0: Vehicle passed. Remaining: 3
+Lane 0: Vehicle passed. Remaining: 2
+Lane 0: Vehicle passed. Remaining: 1
+Lane 0: Vehicle passed. Remaining: 0
+Lane 0 RED. Next lane: 1
+All vehicles cleared. Ending simulation.
+Simulation complete.
+All threads finished. Exiting.
