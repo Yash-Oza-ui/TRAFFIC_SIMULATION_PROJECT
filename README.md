@@ -27,9 +27,13 @@ Automatically adds vehicles and triggers emergencies based on timestamps.
 ### ✔ Two-Thread Architecture  
 - **Event Scheduler Thread**  
   Handles event timing, vehicle arrivals, and emergency triggers.
+  - **Emergency Handler Thread**
+      Managing Emergency situations
 
 - **Traffic Controller Thread**  
   Controls lanes, manages green timing, and processes vehicles.
+  
+
 
 ### ✔ Emergency Pause + Resume  
 - Emergency immediately pauses all lanes  
