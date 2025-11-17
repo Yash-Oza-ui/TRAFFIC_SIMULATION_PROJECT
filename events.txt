@@ -1,0 +1,9 @@
+#you can write comment lines with hashtag
+0 vehicle 0 20
+5 vehicle 1 10
+5 vehicle 0 100
+10 vehicle 2 15
+15 vehicle 3 5
+16 emergency
+16 vehicle 3 14
+40 vehicle 0 10
