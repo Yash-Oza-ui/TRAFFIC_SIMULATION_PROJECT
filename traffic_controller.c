@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <pthread.h>
-#include <unistd.h>     // for usleep
+#include <unistd.h>   
 #include <stdbool.h>
 
 #define MAX_EVENTS 1000
@@ -106,11 +106,10 @@ void *eventScheduler(void *arg) {
             sprintf(msg1, "Time %d: Emergency triggered!", currentTime);
             logEvent(msg1);
 
-            // Start auto-clear thread
             pthread_t t;
             pthread_create(&t, NULL, (void *(*)(void *))({
                 void* emergencyClearThread(void *unused) {
-                    usleep(500 * 1000);  // 5 simulated seconds
+                    usleep(500 * 1000); 
 
                     pthread_mutex_lock(&mtx);
                     emergencyPaused = false;
@@ -161,7 +160,6 @@ void *trafficController(void *arg) {
 
         pthread_mutex_unlock(&mtx);
 
-        // EMERGENCY PAUSE
         if (emergencyPaused) {
             logEvent("Emergency pause detected: all RED, waiting...");
 
@@ -175,7 +173,6 @@ void *trafficController(void *arg) {
             continue;
         }
 
-        // Determine green time
         int greenTime = 0;
 
         pthread_mutex_lock(&mtx);
