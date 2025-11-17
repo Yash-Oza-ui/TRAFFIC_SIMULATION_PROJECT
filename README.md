@@ -165,6 +165,3 @@ Simulation complete.
 
 ## 🤝 Contributing
 Pull requests and issue reports are welcome.
-
-## 📄 License
-This project is open-source under the **MIT License**.
