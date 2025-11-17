@@ -153,6 +153,8 @@ Simulation complete.
 - Simulate **multiple intersections**  
 - Add GUI using SDL or ncurses
 
+## 🏆 Team: Aura Farmers
+
 ## 🙌 Credits
 
 | Name / Username |
@@ -161,7 +163,10 @@ Simulation complete.
 |[Dhvanit Shah](https://github.com/shahdhvanit)|
 |[Tanishq Shah](https://github.com/Tanishq7361)|
 |[Harshil Shah](https://github.com/Harshil607)|
-|Het Kapadiya| 
+|[Het Kapadiya](https://github.com/het210806)| 
 
 ## 🤝 Contributing
 Pull requests and issue reports are welcome.
+
+## 📄 License
+This project is open-source under the **MIT License**.
