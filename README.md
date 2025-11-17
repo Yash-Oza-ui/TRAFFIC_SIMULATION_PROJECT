@@ -151,7 +151,17 @@ Simulation complete.
 - Use **Unix signals (SIGUSR1)** to trigger emergencies  
 - Add **TCP sockets** to receive events from a client  
 - Simulate **multiple intersections**  
-- Add GUI using SDL or ncurses  
+- Add GUI using SDL or ncurses
+
+## 🙌 Credits
+
+| Name / Username |
+|-----------------|
+|[Yash Oza](https://github.com/Yash-Oza-ui)|
+|[Dhvanit Shah](https://github.com/shahdhvanit)|
+|[Tanishq Shah](https://github.com/Tanishq7361)|
+|[Harshil Shah](https://github.com/Harshil607)|
+|Het Kapadiya| 
 
 ## 🤝 Contributing
 Pull requests and issue reports are welcome.
